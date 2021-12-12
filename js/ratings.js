@@ -18,5 +18,6 @@ function collect_ratings() {
 }
 
 document.addEventListener('change', () => {
+    const ratings = collect_ratings();
 
 })
