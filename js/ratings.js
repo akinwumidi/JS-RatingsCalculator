@@ -16,3 +16,7 @@ function collect_ratings() {
     }
     return ratings;
 }
+
+document.addEventListener('change', () => {
+
+})
